@@ -8,6 +8,7 @@ All Player's Name and Score is stored in a file and accordingly High Score is st
 This game will work on DOS OS or DOS Emulator or Turbo C++.
 # How to Run
 1. Just run the VECTOR.exe file on DOS OS or Emulator, if u have. OR
-2. If u have Turbo C++ then copy VECTOR.cpp file to Project folder and MAN.h to Include folder of Turbo C++ and compile/run through it.
+2. If u have Turbo C++ then copy VECTOR.cpp file to Projects* folder and MAN.h to Include folder of Turbo C++ and compile/run through it.
+   *Exactly Projects named folder is not required, just copy to any folder from where u can compile/run in Turbo C++.
 # Language Used
 C++/C
